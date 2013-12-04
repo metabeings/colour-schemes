@@ -343,6 +343,17 @@
         <string>#111111</string>
       </dict>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>Function call</string>
+      <key>scope</key>
+      <string>meta.function-call - punctuation - meta.function-call.arguments</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#3A67AE</string>
+      </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>A2C6BAA7-90D0-4147-BBF5-96B0CD92D109</string>
